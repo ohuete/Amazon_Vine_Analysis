@@ -27,3 +27,6 @@ BigMarket is a startup that has taken me on as their data expert to optimize the
 - 5 star non-Vine review percentage: 52%
 
 <img width="591" alt="Screen Shot 2022-10-19 at 12 20 43 PM" src="https://user-images.githubusercontent.com/107595127/196784329-2502481b-6169-4f9b-8f2e-55100f05f2a3.png">
+
+## Summary
+The code provided is a great way to efficiently sort throught and analyze specific data. It is also useful to perform ETL, specifically with Amazon Web Services. For this project, the code provides output that is helpful when analyzing product reviews, especially when comparing those reviews between paid for and non-paid for. In this scenario, we can conclude that paying for reviews does not necessarily boost the promotion of a product. As we can see, the non-paid for reviews were significantly higher, by almost 20%, than those that were paid for. However, we should conside the fact that for this specific product, there were far more non-paid for reviews than the paid ones. Regardless of the situation, it couldn't hurt to have both. Moving forward, perhaps there is a product with an equal or close to equal number of reviews from paid and non-paid and that would provide a better understanding of whether or not it has a positive effect. 
